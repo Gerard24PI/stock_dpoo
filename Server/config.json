@@ -1,0 +1,8 @@
+{
+  "DB_PORT": 3306,
+  "DB_IP": "jdbc:mysql://localhost",
+  "DB_NAME": "stockdb",
+  "DB_USER": "root",
+  "DB_PASSWORD": "",
+  "SERVER_PORT": 40000
+}
